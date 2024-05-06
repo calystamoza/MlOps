@@ -1,0 +1,5 @@
+outs:
+- md5: 7b42e4788a16812a6062a8598c9e62c4
+  size: 1206977
+  hash: md5
+  path: crowdsource_benchmark_jatim.csv
